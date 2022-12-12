@@ -45,10 +45,10 @@ def HillCipher(message, key):
 
 def main():
  
-    message = "ACT"
+    message = "MAN"
  
     
-    key = "GYBNQKURP"
+    key = "RTWQASNBM"
  
     HillCipher(message, key)
  
